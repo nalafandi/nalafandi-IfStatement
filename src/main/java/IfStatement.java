@@ -23,7 +23,8 @@ public class IfStatement {
         
        if (bool = true) {
         return x;
-       } else {
+       }
+       else  {
         return y;
        }
 
